@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\undefined \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Inproceedings
+\bibitem[{Van~Vaerenbergh and
+  Santamar{\'i}a(2013)}]{vanvaerenbergh2013comparative}
+\bibinfo{author}{Van~Vaerenbergh\xfnm[ S.]},
+  \bibinfo{author}{Santamar{\'i}a\xfnm[ I.]}.
+\newblock \bibinfo{title}{A comparative study of kernel adaptive filtering
+  algorithms}.
+\newblock In: \bibinfo{booktitle}{2013 IEEE Digital Signal Processing (DSP)
+  Workshop and IEEE Signal Processing Education (SPE)}. \bibinfo{year}{2013}.
+  \DOIprefix\doi{10.1109/DSP-SPE.2013.6642587}; \bibinfo{note}{software
+  available at \url{https://github.com/steven2358/kafbox/}}.
+
+\end{thebibliography}

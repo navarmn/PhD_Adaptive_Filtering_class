@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: prova_02.aux
+The style file: model4-names.bst
+Illegal, another \bibstyle command---line 20 of file prova_02.aux
+ : \bibstyle
+ :          {elsarticle-num}
+I'm skipping whatever remains of this command
+Database file #1: mybibfile.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty pages in vanvaerenbergh2013comparative
+You've used 1 entry,
+            3271 wiz_defined-function locations,
+            693 strings with 5756 characters,
+and the built_in function-call counts, 671 in all, are:
+= -- 49
+> -- 18
+< -- 1
++ -- 9
+- -- 6
+* -- 68
+:= -- 96
+add.period$ -- 4
+call.type$ -- 1
+change.case$ -- 10
+chr.to.int$ -- 1
+cite$ -- 2
+duplicate$ -- 53
+empty$ -- 52
+format.name$ -- 11
+if$ -- 120
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 9
+newline$ -- 20
+num.names$ -- 4
+pop$ -- 22
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 19
+stack$ -- 0
+substring$ -- 15
+swap$ -- 30
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 9
+warning$ -- 1
+while$ -- 3
+width$ -- 0
+write$ -- 29
+(There was 1 error message)
