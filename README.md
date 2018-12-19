@@ -18,3 +18,5 @@ The scripts were developed in MATLAB R2018b, in a Linux enviroment. Some divergi
 1. Run `prova_2_q1.m` it would output the most important figures;
 2. Run `prova_2_q2.m` it would output the most important figures.
 
+### See [the report](latex/prova_02.pdf) for further discussions.
+
